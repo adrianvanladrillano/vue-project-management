@@ -1,0 +1,3492 @@
+[
+    {
+        "ns": 100,
+        "exists": "",
+        "*": "Portal:Computer programming"
+    },
+    {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Programming language lists"
+    },
+    {
+        "ns": 10,
+        "exists": "",
+        "*": "Template:Programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": ".QL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "A+ (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "A-0 System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ABAP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ABC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ABC ALGOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ACC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AIMMS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ALGOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ALGOL 58"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ALGOL 60"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ALGOL 68"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ALGOL W"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AMOS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AMPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "APL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "APT (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ARexx"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AWK"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "A Sharp (.NET)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Accent (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Action! (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ActionScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Actor (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ada (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Adenine (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AdvPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Agda (theorem prover)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Agilent VEE"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Agora (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Aldor"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Alef (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Algebraic Logic Functional programming language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Alice (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Alma-0"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AmbientTalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Amiga E"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AngelScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Apache Groovy"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Apache Pig"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Apex (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "App Inventor for Android (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AppleScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Arc (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Argus (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Assembly language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AutoIt"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "AutoLISP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Autodesk 3ds Max"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Averest"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Axum (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BASIC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BCPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BETA (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BLISS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "B (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Babbage (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ballerina (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Bash (Unix shell)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Batch file"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Bc (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BeanShell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Bertrand (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Blockly"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "BlooP and FlooP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Boo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Boomerang (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Bosque (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C*"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C--"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C/AL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CDuce"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CEEMAC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CFEngine"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CHILL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CHIP-8"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CLIPS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CLIST"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CLU (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CMS-2 (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CMS EXEC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COBOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COMAL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COMIT"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COMPASS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COMTRAN"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "COWSEL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CPL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C Sharp (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "C Shell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Caché ObjectScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Caml"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cayenne (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cecil (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cesil"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ceylon (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cg (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ch (computer programming)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Chapel (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Charm (language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ChucK"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cilk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Claire (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Clarion (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Clean (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Clipper (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Clojure"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CobolScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cobra (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CoffeeScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ColdFusion"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Combined Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Common Intermediate Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Common Lisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Comparison of programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Component Pascal"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Computer Sciences Corporation"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Constraint Handling Rules"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Control Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cool (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Coq"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "CorVision"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Coral 66"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Core War"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cryptol"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Crystal (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Csound"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cuneiform (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Curl (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Curry (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cybil (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cyclone (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cypher Query Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Cython"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Céu (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DATATRIEVE"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DBase"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DIBOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DIGITAL Command Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DRAKON"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DYNAMO (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "D (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Dart (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Darwin (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "DataFlex"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Data analysis expressions"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Datalog"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Dc (computer program)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Delphi (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Dink Smallwood"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Distributed Application Specification Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Dog (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Draco (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Dylan (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ECMAScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "EC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "EGL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ELAN (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "EXEC 2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "E (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ease (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Easy Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Easytrieve"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Edinburgh IMP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Eiffel (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Elixir (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Elm (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Eltron Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Emacs Lisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Emerald (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Epigram (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Erlang (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Es (Unix shell)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Escher (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Esoteric programming language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Esterel"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ethereum"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Etoys (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Euclid (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Euler (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Euphoria (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "EusLisp Robot Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Executable UML"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Executive Systems Problem Oriented Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ezhil (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "F* (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "F-Script (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FAUST (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FFP (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FLOW-MATIC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FOCAL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FOCUS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FOIL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FORMAC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "FP (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "F (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "F Sharp (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Factor (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Fantom (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Fjölnir (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Flavors (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Flex (language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Flix (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Formula language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Forth (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Fortran"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Fortress (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Franz Lisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Friendly interactive shell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Futhark (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "G-code"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GAP computer algebra system"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GEORGE (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GNU E"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GNU Guile"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GNU Octave"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GPSS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GRASS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "GameMonkey Script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Game Maker Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Game Oriented Assembly Lisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "General Algebraic Modeling System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Generational list of programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Genie (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Geometric Description Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Go! (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Go (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Godot (game engine)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Golo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Google Apps Script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Gosu (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Grasshopper 3D"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Gödel (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "HAGGIS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "HAL/S"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hack (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Halide (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hamilton C shell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Harbour (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hartmann pipeline"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Haskell (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Haxe"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hermes (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "High Level Assembly"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "High Level Shader Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "History of programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hollywood (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hop (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hope (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hopscotch (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hugo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Hume (language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "HyperTalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM 1401 Symbolic Programming System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM 1620"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM Basic assembly language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM HAScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM Informix-4GL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IBM RPG"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IDL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Icon (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Idris (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Inform (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "IntelliCorp (Software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Io (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JADE (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JAL (compiler)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JASS (scripting language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JEAN"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JOSS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JOVIAL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JScript .NET"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "J (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "J Sharp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Jai (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Janus (concurrent constraint programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Janus (time-reversible computing programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JavaFX Script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "JavaScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Java (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Jess (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Job Control Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Join Java"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Joule (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Joy (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Julia (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Jython"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "KRL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "KRYPTON"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "KUKA Robot Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "K (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kaleidoscope (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Karel (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kent Recursive Calculator"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "KiXtart"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kivy (framework)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Klerer-May System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Knowledge Interchange Format"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kodu Game Lab"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kojo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "KornShell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Kotlin (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LANSA (development environment)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LINC 4GL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LINQ"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LIS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LPC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LSE (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LYaPAS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LabVIEW"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ladder logic"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Language H"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Language for Instruction Set Architecture"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lasso (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lava (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lean (proof assistant)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Legoscript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LilyPond"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Limbo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Limnor"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Linden Scripting Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lingo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lisp (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "List of BASIC dialects"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "List of BASIC dialects by platform"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "List of markup languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "List of programming languages by type"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "List of stylesheet languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lists of programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lite-C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lithe (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Little Computer 3"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Little Implementation Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Little b (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LiveCode"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LiveScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Logo (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Logtalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "LotusScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lua (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lucid (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lustre (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Lynx (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "M2001"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "M4 (computer language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MAD (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MAPPER"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MARK IV (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MATH-MATIC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MATLAB"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MDL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MHEG-5"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MIIS (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MIMIC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MIRC scripting language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MIVA Script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ML (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MOO (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MPD (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MUMPS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "M Sharp (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Machine code"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Macsyma"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Magik (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Magma computer algebra system"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Maple (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Markup language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mary (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Maude system"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Max (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Maxima (software)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Maya Embedded Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mercury (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mesa (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MicroScript (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Microassembler"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Microsoft Macro Assembler"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Microsoft Power Fx"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Milk (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mirah (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Miranda (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Model 204"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Modelica"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Modula"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Modula-2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Modula-3"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mohol programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mortran"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mouse (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "MuPAD"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Mystic BBS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Máni"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NESL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NEWP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NORD Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NWScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NXT-G"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Napier88"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Neko (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nemerle"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Net.Data"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NetLogo"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NetRexx"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Netwide Assembler"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NewLISP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Newspeak (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "NewtonScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nial"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nickle (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nim (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nix package manager"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Non-English-based programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Not Quite C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Not eXactly C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nu (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Nullsoft Scriptable Install System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "O:XML"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OBJ2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OCaml"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OPS5"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ORCA/Modula-2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Oak (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Oberon (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ObjectLOGO"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Object Lisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Object Pascal"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Object REXX"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Objective-C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Objective-J"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Obliq"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Occam-π"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Occam (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OmniMark"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Opa (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Opal (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OpenCL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OpenEdge Advanced Business Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OpenGL Shading Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OpenVera"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Open Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "OptimJ"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Orc (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Oriel (scripting language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Orwell (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Oxygene (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Oz (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "P4 (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PARI/GP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PCASTL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PEARL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PHP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PILOT"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL-11"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/0"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/I"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/M"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/P"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL/SQL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PL360"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PLANC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PLEXIL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PLEX (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "POP-11"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "POP-2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "POV-Ray"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PROIV"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PROMAL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PROSE modeling language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "P (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ParaSail (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Parallax Propeller"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pascal (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pascal Script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PeopleCode"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Perl"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Perl Data Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pharo"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pico (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Picolisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pict (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pike (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pizza (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Plankalkül"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Planner (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Plus (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Polymorphic Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PostScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PowerBuilder"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PowerShell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Powerhouse (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pro*C"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Processing.js"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Processing (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Programming Language for Business"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Programming language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Programming language for Computable Functions"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Prograph"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Project Verona"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Prolog"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Promela"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Protel"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ProvideX"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "PureScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pure (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Pure Data"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Python (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "P′′"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Q (programming language from Kx Systems)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Q Sharp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Qalb (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "QtScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "QuakeC"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Quantum Computation Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Quantum programming"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "R++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "RAPID"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "REBOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "REFAL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "REXX"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ROOP (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "RPL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "RTL/2"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "R (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Racket (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Raku (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Rapira"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ratfiv"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ratfor"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Rc"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Reason (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Red (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Rlab"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Robot Battle"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ruby (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Rust (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S-Lang (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S-PLUS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S/SL programming language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S2 (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S3 (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SA-C (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SAIL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SASL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SAS System"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SETL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SIGNAL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SIMSCRIPT"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SISAL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SLIP (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SMALL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SNOBOL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SOPHAEROS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SP/k"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SPARK (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SPITBOL compiler"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SQL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SQR"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SR (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SYMPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "S (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SabreTalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Sather"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Sawzall (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Scala (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Scheme (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Scilab"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Scratch (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Script.NET"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Scripting language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Secure Operations Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Sed"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Seed7"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Self (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SenseTalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SequenceL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Shell script"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SiMPLE"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Simula"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Simulink"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Singularity (operating system)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Smalltalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Snap! (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Snowball programming language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Solidity"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Source (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Speakeasy (computational environment)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Speedcoding"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Squeak"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Squirrel (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Standard ML"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Starlogo"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Stata"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Stateflow"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Strand (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Strongtalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Subtext (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SuperCollider"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SuperTalk"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Superbase database"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Swift (parallel scripting language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Swift (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "SystemVerilog"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TACL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TACPOL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TADS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TELCOMP"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TMG (language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TRAC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TTCN"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TTM (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TUTOR (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TXL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "T (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Tcl"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TeX"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Tea (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TempleOS"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Tensilica Instruction Extension"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Text Editor and Corrector"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Text Executive Programming Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Text Processing Utility"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Timeline of programming languages"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Toi (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Tom (pattern matching language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Transact-SQL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Transaction Application Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Transcript (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Turing (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Tynker"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "TypeScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "UCSD Pascal"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "UNITY (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Ubercode"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Umple"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Unicon (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Uniface (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Unix shell"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "UnrealScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "VHDL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Vala (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Verilog"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Vim (text editor)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual DataFlex"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual DialogScript"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual FoxPro"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual J++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual Objects"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Visual Prolog"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "WATFIV (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "WebAssembly"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "WebDNA"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Whiley (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Winbatch"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Wolfram Language"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Wyvern (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "X++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "X10 (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XBL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XBase"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XBase++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XC (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XCore XS1"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XHarbour"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XOD (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XOTcl"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XPL0"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XQuery"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XSB"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XSL Transformations"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "XSharp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Xojo"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Xtend"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "YQL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "YUI Library"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Yoix"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Yorick (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Z++"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ZOPL"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ZPL (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Z notation"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Zebra (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Zeno (programming language)"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "ZetaLisp"
+    },
+    {
+        "ns": 0,
+        "exists": "",
+        "*": "Zig (programming language)"
+    },
+    {
+        "ns": 4,
+        "exists": "",
+        "*": "Wikipedia:Wikimedia sister projects"
+    },
+    {
+        "ns": 11,
+        "exists": "",
+        "*": "Template talk:Programming language lists"
+    },
+    {
+        "ns": 11,
+        "exists": "",
+        "*": "Template talk:Programming languages"
+    },
+    {
+        "ns": 14,
+        "exists": "",
+        "*": "Category:Programming languages"
+    }
+]
